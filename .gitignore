@@ -15,4 +15,4 @@ Saved
 
 # Adding additional folders with files over 100 MB (I won't use git lfs for this project as I'm limited to only 1 GB anyway
 # and I have many .uasset files over 100 MB and even close to 1 GB.  Not paying Github for data packs!
-/Content/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/*.uasset
+*.uasset
